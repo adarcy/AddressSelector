@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll_layout"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <com.yiguo.adressselectorlib.AddressSelector
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.yiguo.adressselectorlib.AddressSelector>
+
+
+</LinearLayout>
